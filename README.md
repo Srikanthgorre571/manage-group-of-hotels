@@ -1,0 +1,1 @@
+# manage-group-of-hotels
